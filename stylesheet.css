@@ -14,7 +14,7 @@
 
 .pc a{
     margin-left:20px;
-    font-size:14px;
+    font-size:20px;
     display:inline-block;
     padding:15px 0;
     color:rgb(213, 178, 159);
@@ -32,7 +32,7 @@
 
 .pc-1 a{
     margin-left:20px;
-    font-size:14px;
+    font-size:20px;
     display:inline-block;
     padding:15px 0;
     color:rgb(213, 178, 159);
@@ -50,7 +50,7 @@
 
 .pc-2 a{
     margin-left:20px;
-    font-size:14px;
+    font-size:20px;
     display:inline-block;
     padding:15px 0;
     color:rgb(213, 178, 159);
@@ -72,6 +72,10 @@
 h1{
     font-weight:normal;
     color:rgb(213, 178, 159);
+}
+
+.head-main h1{
+    font-size:40px;
 }
 
 .head-2{
@@ -318,7 +322,7 @@ main{
 .d1 p{
     color:rgb(213, 178, 159);
     text-align:center;
-    font-size:30px;
+    font-size:20px;
 }
 
 .center a{
